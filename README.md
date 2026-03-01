@@ -75,3 +75,17 @@ Summary of all major findings and recommendations
 # Author
 Rahul
 - Connect with me on [https://www.linkedin.com/in/rahul-kadian-0a282828a/](#)
+
+  ## Dashboard Screenshots
+
+### Page 1 — HR Overview
+![Page 1](HR%20Overview.png)
+
+### Page 2 — Attrition Analysis
+![Page 2](Attrition%20Analysis.png)
+
+### Page 3 — Employee Demographics
+![Page 3](Employee%20Demogrpahics.png)
+
+### Page 4 — Key Business Insights
+![Page 4](Key%20Business%20Insights.png)
